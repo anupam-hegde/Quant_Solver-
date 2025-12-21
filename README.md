@@ -107,7 +107,7 @@ graph TD
     E -->|Solutions| F{Consensus Check}
     F -->|Agreement| G[Validator Agent]
     F -->|Disagreement| D
-    G -->|Approved| H[Deployment (Google Sheets)]
+    G -->|Approved| H["Deployment (Google Sheets)"]
     G -->|Rejected| D
 ```
 
