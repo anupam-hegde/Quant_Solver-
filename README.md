@@ -12,11 +12,11 @@
 ## 📺 Demo Video
 
 <div align="center">
-  <video src="demo.mp4" width="100%" controls autoplay loop muted>
-    Your browser does not support the video tag.
-  </video>
+  <a href="demo.mp4">
+    <img src="https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video">
+  </a>
   <br>
-  <em>(Please ensure <code>demo.mp4</code> is present in the repository root)</em>
+  <p><em>(Click the badge above to view the demo video)</em></p>
 </div>
 
 ---
