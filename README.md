@@ -11,13 +11,9 @@
 
 ## 📺 Demo Video
 
-<div align="center">
-  <a href="demo.mp4">
-    <img src="https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video">
-  </a>
-  <br>
-  <p><em>(Click the badge above to view the demo video)</em></p>
-</div>
+> **Note:** GitHub does not support embedding local video files directly in the README. Please click the link below to watch the demo.
+
+### [🎥 Click Here to Watch the Demo Video (demo.mp4)](demo.mp4)
 
 ---
 
