@@ -11,9 +11,7 @@
 
 ## 📺 Demo Video
 
-> **Note:** GitHub does not support embedding local video files directly in the README. Please click the link below to watch the demo.
-
-### [🎥 Click Here to Watch the Demo Video (demo.mp4)](demo.mp4)
+![Demo Video](demo.gif)
 
 ---
 
