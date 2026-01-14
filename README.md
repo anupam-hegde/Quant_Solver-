@@ -11,8 +11,10 @@
 
 ## 📺 Demo Video
 
-![Demo Video](demo.gif)
-
+<div align="center">
+  <img src="demo.gif" width="700" alt="Demo Video">
+  <br>
+</div>
 ---
 
 ## 🚀 Overview
